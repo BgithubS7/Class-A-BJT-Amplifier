@@ -79,9 +79,4 @@ This repo documents the **end-to-end design flow** for a single-stage Class A am
    - **AC** sweep to confirm gain and bandwidth.
    - **Transient** analysis with a 1 kHz sine.
 
-### 5.2 Analysis Scripts
 
-```bash
-cd src/analysis
-python bias_point_calc.py
-python distortion_thd_calc.py
