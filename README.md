@@ -78,5 +78,8 @@ This repo documents the **end-to-end design flow** for a single-stage Class A am
    - **.op** analysis for DC operating point.
    - **AC** sweep to confirm gain and bandwidth.
    - **Transient** analysis with a 1 kHz sine.
+  
+   - ## LAB MEASUREMENT
+   - ![Image](https://github.com/user-attachments/assets/756a2189-358b-4ceb-99c2-8b375514160d)
 
 
