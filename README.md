@@ -86,17 +86,9 @@ This repo documents the **end-to-end design flow** for a single-stage Class A am
   
    - ## LAB MEASUREMENT
    - ![Image](https://github.com/user-attachments/assets/756a2189-358b-4ceb-99c2-8b375514160d)
-  
-3.##
-![Image](https://github.com/user-attachments/assets/b9d8e379-7380-44f9-883b-cd105103d69e)
-
-4.##
- - ![Image](https://github.com/user-attachments/assets/6f0a8908-33d1-4d08-85a0-b6eb487cc845)
-
-5. ##
- - ![Image](https://github.com/user-attachments/assets/acaf015c-4684-4030-a84d-57ff48c4cfd6)
-
-6.##
- - ![Image](https://github.com/user-attachments/assets/a24a02ff-80d5-4b74-8a2b-683d8a3ee774)
+   - ![Image](https://github.com/user-attachments/assets/b9d8e379-7380-44f9-883b-cd105103d69e)
+   - ![Image](https://github.com/user-attachments/assets/6f0a8908-33d1-4d08-85a0-b6eb487cc845)
+   - ![Image](https://github.com/user-attachments/assets/acaf015c-4684-4030-a84d-57ff48c4cfd6)
+   -  ![Image](https://github.com/user-attachments/assets/a24a02ff-80d5-4b74-8a2b-683d8a3ee774)
 
 
